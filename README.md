@@ -1,4 +1,4 @@
-# Tweetme
+# TweetOk
 Build a twitter-like app in Django, Bootstrap, Javascript, &amp; React.js.
 
 <code>manage.py runserver</code>
